@@ -11,13 +11,13 @@
       track-color="dark"
     >
       <q-avatar size="75px">
-        <img alt="Quasar logo" src="~assets/quasar-logo-inner.svg" />
+        <img alt="Disc Golf Guide Logo" src="~assets/disc-golf-guide.png" />
       </q-avatar>
     </q-knob>
 
     <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
+      alt="Disc Golf Guide Logo"
+      src="~assets/logo-disc-golf-guide.png"
       style="width: 200px; height: 140px"
     />
 
