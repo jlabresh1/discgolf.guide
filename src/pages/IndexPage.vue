@@ -11,13 +11,16 @@
       track-color="dark"
     >
       <q-avatar size="75px">
-        <img alt="Disc Golf Guide Logo" src="~assets/disc-golf-guide.png" />
+        <img
+          alt="Disc Golf Guide Icon"
+          src="~assets/icon-disc-golf-guide.svg"
+        />
       </q-avatar>
     </q-knob>
 
     <img
       alt="Disc Golf Guide Logo"
-      src="~assets/logo-disc-golf-guide.png"
+      src="~assets/logo-disc-golf-guide.svg"
       style="width: 200px; height: 140px"
     />
 
